@@ -1,0 +1,50 @@
+[
+  {
+    "nome": "Paolo Neri",
+    "codice": "PN123",
+    "ruolo": "ADMIN",
+    "username": "admin",
+    "password": "admin",
+    "firstAccess": false
+  },
+  {
+    "nome": "Giuseppe Gialli",
+    "codice": "GG456",
+    "ruolo": "Operatore",
+    "username": "ggialli",
+    "password": "pwd",
+    "firstAccess": true
+  },
+  {
+    "nome": "Andrea Viola",
+    "codice": "AV789",
+    "ruolo": "Tecnico",
+    "username": "aviola",
+    "password": "pwd",
+    "firstAccess": true
+  },
+  {
+    "nome": "Mario Rossi",
+    "codice": "MR123",
+    "ruolo": "Operatore",
+    "username": "mrossi",
+    "password": "pwd",
+    "firstAccess": true
+  },
+  {
+    "nome": "Giulia Bianchi",
+    "codice": "GB456",
+    "ruolo": "Supervisore",
+    "username": "gbianchi",
+    "password": "pwd",
+    "firstAccess": true
+  },
+  {
+    "nome": "Luca Verdi",
+    "codice": "LV789",
+    "ruolo": "Tecnico",
+    "username": "lverdi",
+    "password": "pwd",
+    "firstAccess": true
+  }
+]

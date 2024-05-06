@@ -1,0 +1,174 @@
+[
+  {
+    "codice_operatore": "MR123",
+    "data_ora": "2024-04-24T12:00:00",
+    "coordinate": {
+      "latitudine": 44.6933,
+      "longitudine": 7.2374
+    },
+    "descrizione": "Perizia eseguita su veicolo danneggiato",
+    "fotografie": [
+      {
+        "url": "url_foto1.jpg",
+        "commento": "Danno anteriore"
+      },
+      {
+        "url": "url_foto2.jpg",
+        "commento": "Danno posteriore"
+      }
+    ]
+  },
+  {
+    "codice_operatore": "GB456",
+    "data_ora": "2024-04-25T10:30:00",
+    "coordinate": {
+      "latitudine": 44.8857,
+      "longitudine": 7.3590
+    },
+    "descrizione": "Perizia eseguita su abitazione danneggiata",
+    "fotografie": [
+      {
+        "url": "url_foto3.jpg",
+        "commento": "Danno al tetto"
+      },
+      {
+        "url": "url_foto4.jpg",
+        "commento": "Danno alla facciata"
+      }
+    ]
+  },
+  {
+    "codice_operatore": "LV789",
+    "data_ora": "2024-04-26T15:45:00",
+    "coordinate": {
+      "latitudine": 44.3845,
+      "longitudine": 7.5410
+    },
+    "descrizione": "Perizia eseguita su impianto elettrico guasto",
+    "fotografie": [
+      {
+        "url": "url_foto5.jpg",
+        "commento": "Guasto al quadro elettrico"
+      },
+      {
+        "url": "url_foto6.jpg",
+        "commento": "Filo scoperto"
+      }
+    ]
+  },
+{
+  "codice_operatore": "GG456",
+  "data_ora": "2024-04-25T14:30:00",
+  "coordinate": {
+    "latitudine": 45.4642,
+    "longitudine": 9.1900
+  },
+  "descrizione": "Perizia eseguita su veicolo danneggiato a Milano",
+  "fotografie": [
+    {
+      "url": "url_foto3.jpg",
+      "commento": "Graffio sul lato sinistro"
+    },
+    {
+      "url": "url_foto4.jpg",
+      "commento": "Danno sul cofano anteriore"
+    }
+  ]
+},
+{
+  "codice_operatore": "LV789",
+  "data_ora": "2024-04-26T10:00:00",
+  "coordinate": {
+    "latitudine": 41.9028,
+    "longitudine": 12.4964
+  },
+  "descrizione": "Perizia eseguita su veicolo danneggiato a Roma",
+  "fotografie": [
+    {
+      "url": "url_foto5.jpg",
+      "commento": "Graffio sulla portiera destra"
+    },
+    {
+      "url": "url_foto6.jpg",
+      "commento": "Danno sul paraurti posteriore"
+    }
+  ]
+},
+{
+  "codice_operatore": "AV789",
+  "data_ora": "2024-04-27T09:45:00",
+  "coordinate": {
+    "latitudine": 40.8518,
+    "longitudine": 14.2681
+  },
+  "descrizione": "Perizia eseguita su veicolo danneggiato a Napoli",
+  "fotografie": [
+    {
+      "url": "url_foto7.jpg",
+      "commento": "Graffio sullo specchietto retrovisore"
+    },
+    {
+      "url": "url_foto8.jpg",
+      "commento": "Danno sulla portiera posteriore sinistra"
+    }
+  ]
+},
+
+  {
+    "codice_operatore": "AB123",
+    "data_ora": "2024-04-28T08:15:00",
+    "coordinate": {
+      "latitudine": 45.0703,
+      "longitudine": 7.6869
+    },
+    "descrizione": "Perizia eseguita su veicolo danneggiato a Torino",
+    "fotografie": [
+      {
+        "url": "url_foto9.jpg",
+        "commento": "Ammanettamento rotto"
+      },
+      {
+        "url": "url_foto10.jpg",
+        "commento": "Vetri rotti"
+      }
+    ]
+  },
+  {
+    "codice_operatore": "CD456",
+    "data_ora": "2024-04-29T11:30:00",
+    "coordinate": {
+      "latitudine": 45.4789,
+      "longitudine": 9.1269
+    },
+    "descrizione": "Perizia eseguita su veicolo danneggiato a Milano",
+    "fotografie": [
+      {
+        "url": "url_foto11.jpg",
+        "commento": "Graffio sul lato destro"
+      },
+      {
+        "url": "url_foto12.jpg",
+        "commento": "Danno sul cofano anteriore"
+      }
+    ]
+  },
+  {
+    "codice_operatore": "EF789",
+    "data_ora": "2024-04-30T13:45:00",
+    "coordinate": {
+      "latitudine": 41.8919,
+      "longitudine": 12.5113
+    },
+    "descrizione": "Perizia eseguita su veicolo danneggiato a Roma",
+    "fotografie": [
+      {
+        "url": "url_foto13.jpg",
+        "commento": "Danno sul lato sinistro"
+      },
+      {
+        "url": "url_foto14.jpg",
+        "commento": "Danno sul paraurti posteriore"
+      }
+    ]
+  }
+]
